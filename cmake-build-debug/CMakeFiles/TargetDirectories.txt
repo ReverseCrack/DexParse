@@ -1,0 +1,3 @@
+F:/CLion/C/DexFile_Parser/cmake-build-debug/CMakeFiles/DexFile_Parser.dir
+F:/CLion/C/DexFile_Parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLion/C/DexFile_Parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir

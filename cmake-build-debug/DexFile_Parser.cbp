@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DexFile_Parser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/CLion/C/DexFile_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DexFile_Parser">
+				<Option output="F:/CLion/C/DexFile_Parser/cmake-build-debug/DexFile_Parser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/CLion/C/DexFile_Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="D:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 DexFile_Parser"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DexFile_Parser/fast">
+				<Option output="F:/CLion/C/DexFile_Parser/cmake-build-debug/DexFile_Parser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/CLion/C/DexFile_Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/bin/../lib/gcc/mingw32/3.4.5/../../../../include"/>
+					<Add directory="D:/MinGW/bin/../lib/gcc/mingw32/3.4.5/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 DexFile_Parser/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/CLion/C/DexFile_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/CLion/C/DexFile_Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;F:/CLion/C/DexFile_Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/CLion/C/DexFile_Parser/DexFile.h">
+			<Option target="DexFile_Parser"/>
+		</Unit>
+		<Unit filename="F:/CLion/C/DexFile_Parser/main.c">
+			<Option target="DexFile_Parser"/>
+		</Unit>
+		<Unit filename="F:/CLion/C/DexFile_Parser/read_file.c">
+			<Option target="DexFile_Parser"/>
+		</Unit>
+		<Unit filename="F:/CLion/C/DexFile_Parser/read_file.h">
+			<Option target="DexFile_Parser"/>
+		</Unit>
+		<Unit filename="F:/CLion/C/DexFile_Parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

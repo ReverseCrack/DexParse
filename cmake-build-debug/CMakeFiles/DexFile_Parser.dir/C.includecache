@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CLion/C/DexFile_Parser/DexFile.h
+stdint.h
+-
+
+F:/CLion/C/DexFile_Parser/main.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+read_file.h
+F:/CLion/C/DexFile_Parser/read_file.h
+DexFile.h
+F:/CLion/C/DexFile_Parser/DexFile.h
+
+F:/CLion/C/DexFile_Parser/read_file.h
+stdio.h
+-
+stdlib.h
+-
+

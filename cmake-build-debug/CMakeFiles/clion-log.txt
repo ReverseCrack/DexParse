@@ -1,0 +1,7 @@
+"D:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\CLion\C\DexFile_Parser
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/CLion/C/DexFile_Parser/cmake-build-debug
+
+Problems were encountered while collecting compiler information:
+	cc1.exe: error: unrecognized command line option "-fpch-preprocess"
